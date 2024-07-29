@@ -62,7 +62,7 @@ class NewComicSource extends ComicSource {  // 首行必须为class...
     minAppVersion = "3.1.0"
 
     // 更新链接
-    url = "https://raw.githubusercontent.com/wgh136/pica_configs/master/suacg.js"
+    url = "https://raw.githubusercontent.com/xyself/pica_configs/master/suacg.js"
 
     /// APP启动时或者添加/更新漫画源时执行此函数
     init() {
